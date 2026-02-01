@@ -8,7 +8,7 @@ float addition(float a, float b);
 void intercambiar(T1 &a, T1 &b);
 
 // 3. Diaz Tapia Adderly
-double subtraction (double n, double m);
+double subtraction (Ts n, Ts m);
 
 // 4. Lopez Flores Royer Amed
 // multiplication

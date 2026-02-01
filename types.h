@@ -5,7 +5,7 @@ using IntParam = int;
 using T1 = long;
 
 // 3. Diaz Tapia Adderly
-
+using Ts= double;
 // 4. Lopez Flores Royer Amed
 
 // 5. López Sandoval, Heiner
