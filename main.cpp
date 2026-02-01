@@ -45,8 +45,8 @@ int main(){
 
 // 7. Miranda Zarate Jorge Luis
     std::cout << "Demo Miranda Zarate Jorge" << std::endl;
-    x = 10;
-    std::cout << x << "! = " << factorial(x) << "\n\n";
+    U1 V = 10;
+    std::cout << x << "! = " << factorial(V) << "\n\n";
 
 // 8. Riveros Guevara
 // IsPrime

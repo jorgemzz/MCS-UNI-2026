@@ -13,6 +13,7 @@ using T1 = long;
 // 6. Mallaupoma Cesar
 
 // 7. Miranda Zarate Jorge Luis
+using U1 = unsigned int;
 
 // 8. Riveros Guevara
 

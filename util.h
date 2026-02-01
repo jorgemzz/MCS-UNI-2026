@@ -22,7 +22,7 @@ float division(float &f1, float &f2);
 int generarNumAleatorio();
 
 // 7. Miranda Zarate Jorge Luis
-unsigned int factorial(unsigned int number);
+U1 factorial(U1 number);
 // factorial
 
 // 8. Riveros Guevara

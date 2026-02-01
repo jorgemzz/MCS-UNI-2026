@@ -38,9 +38,9 @@ int generarNumAleatorio(){
 }
 
 // 7. Miranda Zarate Jorge Luis
-unsigned int factorial(unsigned int number){
-    unsigned int result = 1;
-    for(int i=number; i > 0; i--){
+U1 factorial(U1 number){
+    U1 result = 1;
+    for(U1 i=number; i > 0; i--){
         result *= i;
     }
     return result;
