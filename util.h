@@ -1,4 +1,3 @@
-
 // 1. Bernaola Gayoso - César Raúl
 // int addition(int a, int b);
 
@@ -17,6 +16,7 @@ float division(float &f1, float &f2);
 
 // 6. Mallaupoma Cesar
 // genera un numero aleatorio
+int generarNumAleatorio();
 
 // 7. Miranda Zarate Jorge Luis
 unsigned int factorial(unsigned int number);

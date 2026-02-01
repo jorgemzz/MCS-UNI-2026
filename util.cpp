@@ -1,4 +1,5 @@
 #include "util.h"
+#include <cstdlib>
 
 // 1. Bernaola Gayoso - César Raúl
 
@@ -24,7 +25,9 @@ float division(float &f1, float &f2)
     return(f3) ;
 }
 // 6. Mallaupoma Cesar
-
+int generarNumAleatorio(){
+    return rand() % 10;
+}
 
 // 7. Miranda Zarate Jorge Luis
 unsigned int factorial(unsigned int number){
