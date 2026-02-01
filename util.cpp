@@ -15,7 +15,7 @@ void intercambiar(T1 &a, T1 &b){
 }
 
 // 3. Diaz Tapia Adderly
-double subtraction (double n, double m){
+Ts subtraction (Ts n, Ts m){
     return n-m;
 }
 // 4. Lopez Flores Royer Amed
