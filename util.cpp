@@ -72,10 +72,6 @@ float average(int x, int y){
 
 
 // 13. Vilca Aguilar Luis
-float raiz(float a){
-    float res = sqrt(a);
-    return res;
-}
 
 // 14. Vinatea Chávez Camilo Jorge
 T14 power(T14 base, T1 exponent){

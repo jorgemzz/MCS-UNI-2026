@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include "util.h"
 
-// g++ main.cpp util.cpp -o main
+// // g++ main.cpp util.cpp -o main
 int main(){
     std::cout << "MCS-2026-PM\n";
     IntParam p1, p2, p3;
@@ -102,14 +102,14 @@ int main(){
 
 
 // 12. Valcarcel Julian
-// float round(float f, int n)
+float round(float f, int n)
 
 // 13. Vilca Aguilar Luis
 // root
     std::cout << "Demo Vilca Aguilar Luis" << std::endl;
-    f1 = 23.0;
-    raiz(f1);
-    std::cout << "La raiz (" << f1 << ") = " << raiz(f1) << "\n\n";
+    F1 L1 = 23.0;
+    raiz(L1);
+    std::cout << "La raiz (" << L1 << ") = " << raiz(L1) << "\n\n";
   
 // 14. Vinatea Chávez Camilo Jorge
     std::cout << "Demo Vinatea Camilo" << std::endl;
@@ -118,5 +118,5 @@ int main(){
     T14 result = power(base, exponent);
     std::cout << base << " ^ " << exponent << " = " << result << "\n\n";
     
-    return 0;
+return 0;
 }

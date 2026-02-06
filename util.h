@@ -1,4 +1,5 @@
 #include "types.h"
+#include <cmath>
 
 // 1. Bernaola Gayoso - César Raúl
 IntParam addition(IntParam a, IntParam b);
@@ -49,7 +50,11 @@ float average(int x, int y);
 
 // 13. Vilca Aguilar Luis
 // root
-float raiz(float a);
+template <typename F>
+F raiz(F a){
+    F res = sqrt(a);
+    return res;
+}
 
 // 14. Vinatea Chávez Camilo Jorge
 float power(float base, int exponent);
