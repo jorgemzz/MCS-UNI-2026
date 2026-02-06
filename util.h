@@ -20,7 +20,10 @@ double subtraction (Ts n, Ts m);
 
 // 4. Lopez Flores Royer Amed
 // multiplication
-MultParam multiplicar(MultParam &a, MultParam &b);
+template <typename MultTemp>
+MultTemp multiplicar(MultTemp &a, MultTemp &b){
+    return a * b;
+}
 // 5. López Sandoval, Heiner
 // division
 float division(float &f1, float &f2);

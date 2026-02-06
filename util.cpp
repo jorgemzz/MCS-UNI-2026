@@ -15,9 +15,9 @@ Ts subtraction (Ts n, Ts m){
     return n-m;
 }
 // 4. Lopez Flores Royer Amed
-MultParam multiplicar(MultParam &a, MultParam &b){
-    return a * b;
-}
+//MultParam multiplicar(MultParam &a, MultParam &b){
+//    return a * b;
+//}
 // 5. López Sandoval, Heiner
 float division(float &f1, float &f2)
 {

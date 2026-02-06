@@ -9,7 +9,8 @@ using T2 = float;
 using Ts= double;
 
 // 4. Lopez Flores Royer Amed
-using MultParam = float;
+using MultParamFloat = float;
+using MultParamInt = int;
 
 // 5. López Sandoval, Heiner
 using T5 = float;
