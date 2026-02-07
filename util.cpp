@@ -57,8 +57,8 @@ int fibonacci(int n){
 // 14. Vinatea Chávez Camilo Jorge
 
 void DemoInicial(){
-    int x = 20; // , y = 45;
-    float f1, f2, f3;
+    //int x = 20; // , y = 45;
+    //float f1, f2; //, f3;
 
 // 1. Bernaola Gayoso - César Raúl
     DemoInicialBernaolaGayosoCesar();
@@ -105,13 +105,12 @@ void DemoInicial(){
     std::cout << "Demo Jhon Tellez Heredia" << std::endl;
 
     // TODO: no ingresar valores
-    x = 10;
+    int x = 10;
     // TODO: verificar la comparacion
     // TODO: cambiar a ++i
     // TODO: como solo es 1 instruccion, no necesitas {}
     // TODO: suma += i;
     std::cout<<"Ingrese el numero 10: ";
-    int x = 10;
 
     int resultado = SumaPrimero10(x);
     std::cout<<"suma: "<<resultado<<std::endl;
@@ -160,7 +159,7 @@ void DemoInicialCuadrosVargas(){
 
 
 // 3. Diaz Tapia Adderly
-DemoInicialDiazTapia(){
+void DemoInicialDiazTapia(){
     std::cout << "Demo Adderly Díaz Tapia" << std::endl;
     Ts a1 = 10.1, a2=7.2;
     std::cout<<"La resta es: " << subtraction(a1, a2) << "\n\n";
@@ -198,6 +197,7 @@ void DemoInicialMirandaZarate(){
     std::cout << "Demo Miranda Zarate Jorge" << std::endl;
     X1 j0 = 10;
     std::cout << j0 << "! = " << factorial(j0) << "\n\n";
+}
 
 // 8. Riveros Guevara
 void DemoInicialRiverosGuevara(){
