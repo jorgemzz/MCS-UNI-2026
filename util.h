@@ -126,7 +126,7 @@ void DemoInicialCuadrosVargas();
 // 4. Lopez Flores Royer Amed
 
 // 5. López Sandoval, Heiner
-
+void DemoInicialLopezSandoval();
 // 6. Mallaupoma Cesar
 
 // 7. Miranda Zarate Jorge Luis
