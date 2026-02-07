@@ -2,7 +2,6 @@
 #include <cmath>
 #include <cstdlib>
 #include "util.h"
-#include "util.h"
 
 // 1. Bernaola Gayoso - César Raúl
 // Implementacion especializada de adicion para IntParam
@@ -63,7 +62,7 @@ int fibonacci(int n){
 }*/
 
 void DemoInicial(){
-    int x = 20, y = 45;
+    int x = 20; // , y = 45;
     float f1, f2, f3;
 
 // 1. Bernaola Gayoso - César Raúl
@@ -155,7 +154,7 @@ void DemoInicial(){
     // TODO: suma += i;
     std::cout<<"Ingrese el numero 10: ";
     int x;
-    std::cin>>x;
+    x = 10;
 
     int resultado = SumaPrimero10(x);
     std::cout<<"suma: "<<resultado<<std::endl;
